@@ -1,4 +1,4 @@
-# Hi there, I'm Tharushika 👋
+# Hi there👋
 
 ## About Me
 - 💻 I’m a Information Technology undergraduate with a passion for coding and learning new technologies.
