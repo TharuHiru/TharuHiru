@@ -1,6 +1,6 @@
 Hi there 👋
 About Me
-💻 I’m a third-year Information Technology undergraduate with a strong passion for software development and a curiosity for emerging technologies.
+💻 I’m a final-year Information Technology undergraduate with a strong passion for software development and a curiosity for emerging technologies.
 
 🌱 Actively improving my skills in software development , web development, AI projects , and mobile app development through hands-on projects and continuous learning.
 
